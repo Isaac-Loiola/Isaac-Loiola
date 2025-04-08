@@ -46,6 +46,23 @@ Me chamo Isaac Oliveira Loiola, tenho 17 anos e moro em São Paulo.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"   
  />
 
+ <img 
+    align= "left"
+    alt="HTML#"
+    ttitle="HTML#"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+ />
+ 
+ <img 
+    align= "left"
+    alt="JavaScript#"
+    ttitle="JavaScript#"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+ 
  <br/>
  <br/>
 
