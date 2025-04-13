@@ -69,5 +69,5 @@ Me chamo Isaac Oliveira Loiola, tenho 17 anos e moro em São Paulo.
 ### 📊Estatística
 
  
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Isaac-Loiola&show_icons=true&theme=dark#gh-dark-mode-only)
+
 
