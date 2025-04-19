@@ -3,8 +3,8 @@
 **Desenvolvedor FullStack**
 
 Me chamo Isaac Oliveira Loiola, tenho 17 anos e moro em São Paulo.  <br/>
-Sou desenvolvedor Full Stack apaixonado por tecnologia e inovação, estou sempre buscando evoluir minhas  <br/>
-habilidades para criar soluções. <br/>
+Sou desenvolvedor Full Stack apaixonado por tecnologia e inovação, estou sempre buscando <br/>
+evoluir minhas habilidades para criar soluções. <br/>
 
 ---
 
