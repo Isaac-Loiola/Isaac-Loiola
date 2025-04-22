@@ -63,6 +63,14 @@ evoluir minhas habilidades para criar soluções. <br/>**
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align= "left"
+    alt="Python"
+    ttitle="Python#"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" 
+/>
+          
 
  
  <br/>
