@@ -78,6 +78,7 @@ evoluir minhas habilidades para criar soluções. <br/>**
 
 ### 📊Estatística
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Loiola&hide_progress=true)</br>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Isaac-Loiola&hide_border=true) 
  
 
