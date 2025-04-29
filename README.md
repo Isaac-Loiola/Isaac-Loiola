@@ -1,6 +1,7 @@
 <div align="center">
-    
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Gothic+Expanded+One&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+Seja+Bem+Vindo!+)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cal+Sans&size=30&pause=1000&color=F78A13&width=435&lines=Ol%C3%A1%2C+Seja+Bem+Vindo!)
+
 
 </div>
 
