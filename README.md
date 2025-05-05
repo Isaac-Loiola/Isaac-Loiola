@@ -35,7 +35,7 @@ evoluir minhas habilidades para criar soluções. <br/>**
     ttitle="Linux"
     width="30px"
     style="Panddin-rigth: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg"     
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"     
  />
 
 <img 
