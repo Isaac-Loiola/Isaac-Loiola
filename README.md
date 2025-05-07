@@ -79,6 +79,15 @@ evoluir minhas habilidades para criar soluções. <br/>**
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+ <img 
+    align= "left"
+    alt="Angular#"
+    ttitle="Angular#"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"     
+/>
+
 <img 
     align= "left"
     alt="Python"
