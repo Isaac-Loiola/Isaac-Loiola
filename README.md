@@ -88,6 +88,14 @@ evoluir minhas habilidades para criar soluções. <br/>**
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"     
 />
 
+ <img 
+    align= "left"
+    alt="PHP#"
+    ttitle="PHP#"
+    width="30px"
+    src="https://devicon-website.vercel.app/api/php/plain.svg"        
+/>
+
 <img 
     align= "left"
     alt="Python"
