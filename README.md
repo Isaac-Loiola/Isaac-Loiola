@@ -46,6 +46,7 @@ evoluir minhas habilidades para criar soluções. <br/>**
     style="Panddin-rigth: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
  />
+ 
  <img 
     align= "left"
     alt="Git#"
@@ -61,6 +62,14 @@ evoluir minhas habilidades para criar soluções. <br/>**
     ttitle="HTML#"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+ />
+ 
+ <img 
+    align= "left"
+    alt="CSS3#"
+    ttitle="CSS3#"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
  />
  
  <img 
