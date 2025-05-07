@@ -96,14 +96,6 @@ evoluir minhas habilidades para criar soluções. <br/>**
     src="https://devicon-website.vercel.app/api/php/plain.svg"        
 />
 
-<img 
-    align= "left"
-    alt="Python"
-    ttitle="Python#"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" 
-/>
-          
 
  
  <br/>
