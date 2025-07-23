@@ -46,6 +46,15 @@ evoluir minhas habilidades para criar soluções. <br/>**
     style="Panddin-rigth: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
  />
+
+ <img 
+    align= "left"
+    alt="ENTITY-FRAMEWORK-CORE"
+    ttitle="ENTITY"
+    width="30px"
+    style="Panddin-rigth: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg"
+ />
  
  <img 
     align= "left"
