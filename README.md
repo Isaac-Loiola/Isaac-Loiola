@@ -1,5 +1,3 @@
-<div align="center">
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cal+Sans&size=30&pause=1000&color=F78A13&width=435&lines=Ol%C3%A1%2C+Seja+Bem+Vindo!)
 
 
@@ -18,17 +16,6 @@ evoluir minhas habilidades para criar soluções. <br/>**
 
 ### 🤖 Linguagens e Tecnologias
 
-
-
-<img 
-    align= "left"
-    alt="MySql"
-    ttitle="MySql"
-    width="30px"
-    style="Panddin-rigth: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
- />
- 
 <img 
     align= "left"
     alt="Linux"
@@ -40,6 +27,15 @@ evoluir minhas habilidades para criar soluções. <br/>**
 
 <img 
     align= "left"
+    alt="MySql"
+    ttitle="MySql"
+    width="30px"
+    style="Panddin-rigth: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+ />
+
+<img 
+    align= "left"
     alt="C#"
     ttitle="C#"
     width="30px"
@@ -47,15 +43,6 @@ evoluir minhas habilidades para criar soluções. <br/>**
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
  />
 
- <img 
-    align= "left"
-    alt="ENTITY-FRAMEWORK-CORE"
-    ttitle="ENTITY"
-    width="30px"
-    style="Panddin-rigth: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg"
- />
- 
  <img 
     align= "left"
     alt="Git#"
@@ -72,7 +59,7 @@ evoluir minhas habilidades para criar soluções. <br/>**
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
  />
- 
+
  <img 
     align= "left"
     alt="CSS3#"
@@ -80,13 +67,8 @@ evoluir minhas habilidades para criar soluções. <br/>**
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
  />
-  <img 
-    align= "left"
-    alt="Bootstrap#"
-    ttitle="Bootstrap#"
-    width="30px"
-    src="https://devicon-website.vercel.app/api/bootstrap/original.svg"
- />
+
+ 
  <img 
     align= "left"
     alt="JavaScript#"
@@ -94,15 +76,6 @@ evoluir minhas habilidades para criar soluções. <br/>**
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
- <img 
-    align= "left"
-    alt="Angular#"
-    ttitle="Angular#"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"     
-/>
-
  <img 
     align= "left"
     alt="PHP#"
@@ -112,7 +85,36 @@ evoluir minhas habilidades para criar soluções. <br/>**
 />
 
 
+ <br/>
+ <br/>
+
+### 🛠️ Frameworks
+
+ <img 
+    align= "left"
+    alt="ENTITY-FRAMEWORK-CORE"
+    ttitle="ENTITY"
+    width="30px"
+    style="Panddin-rigth: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg"
+ />
+ <img 
+    align= "left"
+    alt="Bootstrap#"
+    ttitle="Bootstrap#"
+    width="30px"
+    src="https://devicon-website.vercel.app/api/bootstrap/original.svg"
+ />
  
+
+ <img 
+    align= "left"
+    alt="Angular#"
+    ttitle="Angular#"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"     
+/>
+
  <br/>
  <br/>
 
