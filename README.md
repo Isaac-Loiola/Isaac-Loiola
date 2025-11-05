@@ -117,11 +117,20 @@ evoluir minhas habilidades para criar soluções. <br/>**
 
  <img 
     align= "left"
-    alt="Angular#"
-    ttitle="Angular#"
+    alt="Laravel#"
+    ttitle="Laravel#"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"    
 />
+
+<img 
+    align= "left"
+    alt="Tailwind#"
+    ttitle="Tailwind#"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"    
+/>
+        
           
  <br/>
  <br/>
