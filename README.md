@@ -105,8 +105,15 @@ evoluir minhas habilidades para criar soluções. <br/>**
     width="30px"
     src="https://devicon-website.vercel.app/api/bootstrap/original.svg"
  />
- 
 
+<img 
+    align= "left"
+    alt="Tailwind#"
+    ttitle="Tailwind#"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"    
+/>
+      
  <img 
     align= "left"
     alt="Angular#"
@@ -122,15 +129,7 @@ evoluir minhas habilidades para criar soluções. <br/>**
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"    
 />
-
-<img 
-    align= "left"
-    alt="Tailwind#"
-    ttitle="Tailwind#"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"    
-/>
-        
+  
           
  <br/>
  <br/>
